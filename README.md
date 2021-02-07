@@ -4,5 +4,5 @@ In this project a Potentiometer signal is to be converted using ADC module in AT
 
 Drivers used:
  - Timer0
- - External Interrupt (INT0)
+ - ADC
  - LCD
